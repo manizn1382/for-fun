@@ -1,2 +1,2 @@
-# for-fun
-model test on breast_cancer dataset
+# test recall_score,precision and accuracy on breast_cancer
+
